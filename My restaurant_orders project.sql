@@ -1,0 +1,4 @@
+-- SECOND OBJECTIVE: VIEW THE ORDERS TABLE. WHAT IS THE DATE RANGE OF TABLE?
+
+select *
+from order_details_copy;
